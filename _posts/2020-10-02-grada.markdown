@@ -1,0 +1,12 @@
+---
+layout: post
+title: Sleva na učebnice
+thumbnail: assets/img/visible/posts/grada.png
+color: rgb(115, 115, 115)
+tags: Příspěvky
+excerpt_separator: <!--more-->
+---
+{% include aligner.html images="visible/posts/grada.png" %}
+<p>Nákupy učebnic jsou vždycky spojeny s plačící peněženkou, tentokrát tomu tak úplně být nemusí. Můžete totiž využít
+speciální slevu od společnosti GRADA na 20% při nákupu učebnic. Navíc při nákupu nad 800 Kč máte poštovné zdarma a to už se vyplatí!
+Moc dlouho se nerozmýšlejte, sleva platí do 6. 11. 2020.</p>

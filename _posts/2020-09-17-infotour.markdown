@@ -1,0 +1,18 @@
+---
+layout: post
+title: Infotour + afterparty v Uchu
+excerpt_separator: <!--more-->
+tags: Akce
+color: rgb(167,23,12)
+thumbnail: assets/img/visible/posts/infotour.png
+---
+<p>Jako každoročně nás i letos čeká tradiční a oblíbená infotour. O co se jedná?</p>
+<!--more-->
+<p>Infotour je akce, kterou by si neměl nechat ujít žádný prvák!
+Dozvíte se zde všechny důležité informace, třeba jak se zorientovat v informačním systému SIS, 
+v rozvrhu hodin, kde se konají jednotlivé hodiny a mimo to spoustu dalších užitečných informací, 
+které vám usnadní proplouvání studiem na naší fakultě. Zároveň vás ihned po prezentaci provedeme po těch nejdůležitějších místech v Plzni, 
+která určitě musíte znát.</p>
+<p>Infotour začíná v 17:00 v posluchárně Šafránkova pavilonu, ale z kolejí Heyrovského a Bolevecké bude zorganizován společný přesun, 
+vše ještě přiblížíme, sledujte proto naši <a href="https://www.facebook.com/events/1045562472554054/">facebookovou událost</a>.</p>
+<p>Nakonec se všichni sejdeme v Uchu (jeden ze stěžejních bodů Plzně pro každého správného studenta LFP) na stylové afterparty, kterou pro vás připravují Medici v akci.</p>

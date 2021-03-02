@@ -1,0 +1,31 @@
+---
+layout: post
+title: Nový rok, nové logo, nový web
+feature-img: assets/img/visible/posts/novy-web.png
+excerpt_separator: <!--more-->
+author: mepi
+tags: Příspěvky
+color: seablue
+---
+<p>Do nového akademického roku se sluší vykročit pravou nohou. Jako spolek Medicus Pilsensis jsme si řekli, že bychom do nového roku
+mohli vkročit s novějším webem a logem. Doufáme, že se na stránkách budete jednoduše orientovat a dohledáte vše, co budete potřebovat.
+Pro všechny případy pro vás máme krátký manuál, jak se stránkami zacházet.</p>
+<!--more-->
+<p>Na domovské stránce najdete přehled nejnovějších příspěvků, ale samozřejmě můžete zabrouzdat i dále do historie.</p>
+
+<p>V rubrice "O nás" je kraťoučký příběh o nás (překvapivě :)) a pokud byste nám chtěli něco hezkého vzkázat, naleznete tam
+i důležité kontakty.</p>
+{% include aligner.html images="manual/manual-about.png" %}
+<p>Galerie obsahuje přehled fotek, které se tady na stránce vyskytují.</p>
+{% include aligner.html images="manual/manual-galerie.png" %}
+<p>V portfoliu naleznete krátký souhrn všech našich projektů, ke každému je tam i pár slov, stačí rozkliknout.</p>
+{% include aligner.html images="manual/manual-portfolio.png" %}
+<p>Máme i vyhledávač!!</p>
+{% include aligner.html images="manual/manual-search.png" %}
+<p>Posledním odkazem jsou štítky. Ke každému příspěvku, který zde na stránce bude, přidáme štítek. Budete pak moci podle témat jednodušeji
+dohledat i starší články.</p>
+{% include aligner.html images="manual/manual-tags.png" %}
+<p>Abychom nezapomněli na to nejdůležitější - sociální sítě! Stačí kliknout na ikonku a hned jste na našem Facebooku nebo Instagramu.
+Tak nám nezapomeňte hned dát follow, ať vám opravdu nic neunikne.</p>
+{% include aligner.html images="manual/manual-social.png" %}
+<p>Pokud byste si chtěli pročíst i naše archivní příspěvky, vše najdete <a href="http://www.mepi8.webnode.cz">ZDE</a>.

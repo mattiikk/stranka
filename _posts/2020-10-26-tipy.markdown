@@ -1,0 +1,37 @@
+---
+layout: page
+title: Jak na školu z domova
+excerpt_separator: <!--more-->
+tags: Příspěvky
+color: rgb(130,107,56)
+thumbnail: assets/img/post_invisible/home_office/tipy.png
+feature-img: assets/img/post_invisible/home_office/tipy2.png
+---
+<p>Prezenční výuka je bohužel stále v nedohlednu a i když distanční výuka tu "naživo"
+nikdy nenahradí, můžeme se aspoň snažit být co nejproduktivnější, což z domova není vždy
+jednoduché. Přinášíme pár tipů, jak zkouknout přednášky, praktika, zapamatovat si
+z nich pár informací a ještě si při tom udržet dobrou náladu.</p>
+<!--more-->
+![Travel]({{ "/assets/img/post_invisible/home_office/rano.png" | relative_url}})
+<p>Kdy jindy začít, než ráno. Samotná ranní rutina nemusí být úplně špatná věc. Když budu
+polehávat do oběda, zahodím zbytečně půl dne. Co takhle vstát včas, dát si studenou sprchu
+a připravit si dobrou snídani? Možná to hned půjde líp.</p>
+![Travel]({{ "/assets/img/post_invisible/home_office/pyzamo.png" | relative_url}})
+<p>V pyžamu je sice hezky, ale do školního režimu se asi jednodušeji přenesu,
+když se převleču do něčeho jiného. Rve mi to srdce, ale pyžamo prostě ne.</p>
+
+![Travel]({{ "/assets/img/post_invisible/home_office/prostor.png" | relative_url}})
+<p>Je fakt super, že si během přednášky můžu lehnout do postele nebo si sednout do pohodlného
+křesla, možná k tomu všemu můžu ještě poočku sledovat televizi. Takhle toho ale asi moc neudělám.
+Lepší je vymezit si prostor jen pro školu nebo práci a udržovat v něm pořádek.</p>
+
+![Travel]({{ "/assets/img/post_invisible/home_office/telefon.png" | relative_url}})
+<p>"Tak ještě kouknu na storíčka a pak už budu poslouchat." K přednášce se ale vůbec nedostanu,
+protože mě mobil zaměstná na dalších půl hodiny. Raději mobil odložím stranou a vrátím se k němu,
+až budu mít vše potřebné hotovo. Pokud mě bude i tak svádět, pomůže mi například aplikace Forest.</p>
+
+![Travel]({{ "/assets/img/post_invisible/home_office/pauza.png" | relative_url}})
+<p>Pauzy jsou snad to nejdůležitější! Nikdo se nedokáže soustředit několik hodin v kuse.
+Zkus se v mezičase protáhnout, udělat si pauzu na kafe, telefon nebo třeba na kus řeči
+se spolubydlícím nebo rodičem.</p>
+<p>Držíme všem palce a snad se brzy budeme zase potkávat ve škole!</p>
